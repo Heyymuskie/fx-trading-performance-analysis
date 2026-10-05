@@ -117,8 +117,7 @@ month of data before it can be called real.
 
 ## License and attribution
 
-Adapted from an MIT-licensed open-source analysis by **Sarvesh Kumar Sharma** —
-`Copyright (c) 2020 Sarvesh Kumar Sharma`, MIT Licence. Documentation, statistics write-up
+Adapted from an MIT-licensed open-source analysis. MIT Licence. Documentation, statistics write-up
 and charts in this repository were reworked and extended for this project. See [LICENSE](LICENSE).
 
 ---
