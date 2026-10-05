@@ -122,5 +122,5 @@ and charts in this repository were reworked and extended for this project. See [
 
 ---
 
-**Muskan Choudhary** · [Portfolio case study](https://muskan-portfolio.vercel.app/projects/fx-trading-performance-analysis) ·
+**Muskan Choudhary** · [Portfolio case study](https://muskan-choudhary.vercel.app/projects/fx-trading-performance-analysis) ·
 [LinkedIn](https://www.linkedin.com/in/muskiee) · [GitHub](https://github.com/Heyymuskie)
